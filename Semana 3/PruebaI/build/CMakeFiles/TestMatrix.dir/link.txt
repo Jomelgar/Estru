@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TestMatrix.dir/home/johnny/Programas/Semana_3/PruebaI/Matrix.cpp.o CMakeFiles/TestMatrix.dir/TestMatrix.cpp.o -o TestMatrix 

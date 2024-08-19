@@ -1,0 +1,3 @@
+/home/johnny/Programas/Semana 3/PruebaI/build/CMakeFiles/TestMatrix.dir
+/home/johnny/Programas/Semana 3/PruebaI/build/CMakeFiles/edit_cache.dir
+/home/johnny/Programas/Semana 3/PruebaI/build/CMakeFiles/rebuild_cache.dir
