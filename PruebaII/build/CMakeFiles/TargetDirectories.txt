@@ -1,0 +1,3 @@
+/home/johnny/Programas/Semana 4/PruebaII/build/CMakeFiles/TestMerge.dir
+/home/johnny/Programas/Semana 4/PruebaII/build/CMakeFiles/edit_cache.dir
+/home/johnny/Programas/Semana 4/PruebaII/build/CMakeFiles/rebuild_cache.dir
