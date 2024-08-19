@@ -1,0 +1,3 @@
+/home/johnny/Programas/Semana 2/Prueba/build/CMakeFiles/Prueba.dir
+/home/johnny/Programas/Semana 2/Prueba/build/CMakeFiles/edit_cache.dir
+/home/johnny/Programas/Semana 2/Prueba/build/CMakeFiles/rebuild_cache.dir
