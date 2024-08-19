@@ -1,0 +1,3 @@
+/home/johnny/Programas/Semana1/FixedArray/build/CMakeFiles/FixedArray.dir
+/home/johnny/Programas/Semana1/FixedArray/build/CMakeFiles/edit_cache.dir
+/home/johnny/Programas/Semana1/FixedArray/build/CMakeFiles/rebuild_cache.dir
