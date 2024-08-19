@@ -1,0 +1,3 @@
+/home/johnny/Programas/Semana 4/DoubleLinkedList/build/CMakeFiles/DoubleLinkedList.dir
+/home/johnny/Programas/Semana 4/DoubleLinkedList/build/CMakeFiles/edit_cache.dir
+/home/johnny/Programas/Semana 4/DoubleLinkedList/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/johnny/Programas/Semana 4/LinkedList/build/CMakeFiles/LinkedList.dir
+/home/johnny/Programas/Semana 4/LinkedList/build/CMakeFiles/edit_cache.dir
+/home/johnny/Programas/Semana 4/LinkedList/build/CMakeFiles/rebuild_cache.dir
